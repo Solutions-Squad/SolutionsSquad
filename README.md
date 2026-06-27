@@ -1,1 +1,1 @@
-# AI system that alert drivers when they are in high accident zones in South Africa it even alerts the driver for high highjack areas when driving through them for safety reasons also
+# AI system that alert drivers when they are in high accident zones in South Africa by using variables such as latitude and longitude, weather conditions. These alerts are for safety reasons and for tourists in South Africa. 
